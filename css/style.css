@@ -7678,6 +7678,12 @@ li.moresupp {
 .hero .follow-button {
   margin: 0 15px;
 }
+.getting-started {
+  color: gray;
+}
+.getting-started span {
+  color: #0b62a4;
+}
 /* ===== Primary Styles ========================================================
    Author:
    ========================================================================== */
